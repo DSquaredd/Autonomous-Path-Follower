@@ -1,2 +1,3 @@
 # Autonomous-Path-Follower
-Programm to simulate autonomous path following robot in Coppelia Sim. 
+Program to simulate autonomous path following robot using Coppelia Sim. 
+
